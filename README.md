@@ -38,13 +38,13 @@ The goal was to implement the given Adobe XD design into a **pixel-perfect React
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/reponame.git
-   cd reponame ```
+   cd reponame 
 2. Install dependencies:
    ```bash
-   npm install ```
+   npm install 
 3. Run the project locally:
    ``` bash
-   npm run dev ```
+   npm run dev 
 
 ---
 
